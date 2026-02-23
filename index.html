@@ -1,0 +1,544 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="JukaMedical — Professional podology and foot care clinic offering medical treatments, aesthetic pedicures, orthotics, and certified training courses in Warsaw."
+    />
+    <meta
+      name="keywords"
+      content="podology, foot care, medical pedicure, ingrown nail, podologist, orthotics, Warsaw, foot clinic, podology training"
+    />
+    <meta name="author" content="JukaMedical" />
+
+    <!-- Open Graph -->
+    <meta
+      property="og:title"
+      content="JukaMedical — Professional Podology & Foot Care"
+    />
+    <meta
+      property="og:description"
+      content="Expert podological care in a luxury clinic setting. Medical treatments, aesthetic foot care, and certified professional training courses."
+    />
+    <meta property="og:image" content="images/og-image.jpg" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://jukamedical.com" />
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://jukamedical.com" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="images/favicon.png" />
+    <link rel="icon" type="image/svg+xml" href="images/favicon.svg" />
+
+    <title>JukaMedical — Professional Podology & Foot Care in Warsaw</title>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="styles.css" />
+
+    <!-- Structured Data (JSON-LD) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalBusiness",
+        "name": "JukaMedical",
+        "description": "Professional podology and foot care clinic offering medical treatments, aesthetic care, and certified training.",
+        "url": "https://jukamedical.com",
+        "telephone": "+48-22-123-4567",
+        "email": "hello@jukamedical.com",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "ul. Marszałkowska 84/12",
+          "addressLocality": "Warsaw",
+          "postalCode": "00-514",
+          "addressCountry": "PL"
+        },
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ],
+            "opens": "09:00",
+            "closes": "19:00"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": "Saturday",
+            "opens": "10:00",
+            "closes": "15:00"
+          }
+        ],
+        "serviceType": [
+          "Podology",
+          "Medical Pedicure",
+          "Foot Care",
+          "Orthotics",
+          "Podology Training"
+        ]
+      }
+    </script>
+  </head>
+  <body>
+    <!-- ==================== HEADER / NAVIGATION ==================== -->
+    <header class="header" data-header>
+      <div class="header__inner">
+        <a
+          href="#hero"
+          class="header__logo"
+          aria-label="JukaMedical — Back to top"
+        >
+          <span class="header__logo-mark">Juka</span
+          ><span class="header__logo-text">Medical</span>
+        </a>
+
+        <nav class="header__nav" data-nav aria-label="Main navigation">
+          <ul class="header__nav-list">
+            <li>
+              <a href="#about" class="header__nav-link" data-scroll-link
+                >About Us</a
+              >
+            </li>
+            <li>
+              <a href="#services" class="header__nav-link" data-scroll-link
+                >Services</a
+              >
+            </li>
+            <li>
+              <a href="#trainings" class="header__nav-link" data-scroll-link
+                >Trainings</a
+              >
+            </li>
+            <li>
+              <a href="#contact" class="header__nav-link" data-scroll-link
+                >Contact</a
+              >
+            </li>
+          </ul>
+        </nav>
+
+        <a href="tel:+48603709150" class="header__cta btn btn--small"
+          >+48 603 709 150</a
+        >
+
+        <button
+          class="header__burger"
+          data-nav-toggle
+          aria-label="Toggle navigation menu"
+          aria-expanded="false"
+        >
+          <span class="header__burger-line"></span>
+          <span class="header__burger-line"></span>
+          <span class="header__burger-line"></span>
+        </button>
+      </div>
+    </header>
+
+    <main>
+      <!-- ==================== HERO ==================== -->
+      <section class="hero" id="hero">
+        <div class="hero__inner">
+          <div class="hero__content">
+            <h1 class="hero__title">
+              Expert Care for<br />Healthy, Beautiful Feet
+            </h1>
+            <p class="hero__tagline">
+              Clinical precision meets luxury comfort. Trusted podological
+              treatments, aesthetic foot care, and professional training — all
+              in one place.
+            </p>
+            <a href="#contact" class="btn btn--primary" data-scroll-link
+              >Book an Appointment</a
+            >
+          </div>
+          <div class="hero__visual" aria-hidden="true">
+            <div class="hero__shape hero__shape--1"></div>
+            <div class="hero__shape hero__shape--2"></div>
+            <div class="hero__shape hero__shape--3"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ==================== ABOUT / TEAM ==================== -->
+      <section class="section section--about" id="about">
+        <div class="section__inner">
+          <div class="section__header">
+            <span class="section__label">Our Team</span>
+            <h2 class="section__title">The Specialists Behind Your Care</h2>
+            <p class="section__subtitle">
+              Every member of our team is a certified professional dedicated to
+              your foot health and comfort.
+            </p>
+          </div>
+          <div class="team" data-team-container>
+            <!-- Rendered dynamically by TeamSection -->
+          </div>
+        </div>
+      </section>
+
+      <!-- ==================== SERVICES ==================== -->
+      <section class="section section--services" id="services">
+        <div class="section__inner">
+          <div class="section__header">
+            <span class="section__label">What We Offer</span>
+            <h2 class="section__title">Services & Prices</h2>
+            <p class="section__subtitle">
+              From medical podology to luxurious aesthetic treatments —
+              comprehensive care tailored to your needs.
+            </p>
+          </div>
+          <div class="services" data-services-container>
+            <!-- Rendered dynamically by ServicesSection -->
+          </div>
+        </div>
+      </section>
+
+      <!-- ==================== TRAININGS ==================== -->
+      <section class="section section--trainings" id="trainings">
+        <div class="section__inner">
+          <div class="section__header">
+            <span class="section__label">Education</span>
+            <h2 class="section__title">Professional Trainings</h2>
+            <p class="section__subtitle">
+              Advance your podological career with our certified courses taught
+              by experienced practitioners.
+            </p>
+          </div>
+          <div class="trainings" data-trainings-container>
+            <!-- Rendered dynamically by TrainingsSection -->
+          </div>
+        </div>
+      </section>
+
+      <!-- ==================== CONTACT ==================== -->
+      <section class="section section--contact" id="contact">
+        <div class="section__inner">
+          <div class="section__header">
+            <span class="section__label">Get in Touch</span>
+            <h2 class="section__title">Contact & Booking</h2>
+            <p class="section__subtitle">
+              Ready to take the first step? Reach out to book your appointment
+              or ask any questions.
+            </p>
+          </div>
+          <div class="contact">
+            <div class="contact__details">
+              <div class="contact__row">
+                <svg
+                  class="contact__icon"
+                  width="18"
+                  height="18"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  aria-hidden="true"
+                >
+                  <path
+                    d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 1118 0z"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                  <circle
+                    cx="12"
+                    cy="10"
+                    r="3"
+                    stroke="currentColor"
+                    stroke-width="2"
+                  />
+                </svg>
+                <div>
+                  <h3 class="contact__label">Address</h3>
+                  <address class="contact__value">
+                    ul. Marszałkowska 84/12, 00-514 Warsaw
+                  </address>
+                </div>
+              </div>
+              <div class="contact__row">
+                <svg
+                  class="contact__icon"
+                  width="18"
+                  height="18"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  aria-hidden="true"
+                >
+                  <path
+                    d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6 19.79 19.79 0 01-3.07-8.67A2 2 0 014.11 2h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                </svg>
+                <div>
+                  <h3 class="contact__label">Phone</h3>
+                  <a
+                    href="tel:+48221234567"
+                    class="contact__value contact__value--link"
+                    >+48 22 123 45 67</a
+                  >
+                </div>
+              </div>
+              <div class="contact__row">
+                <svg
+                  class="contact__icon"
+                  width="18"
+                  height="18"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  aria-hidden="true"
+                >
+                  <path
+                    d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                  <polyline
+                    points="22,6 12,13 2,6"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                </svg>
+                <div>
+                  <h3 class="contact__label">Email</h3>
+                  <a
+                    href="mailto:hello@jukamedical.com"
+                    class="contact__value contact__value--link"
+                    >hello@jukamedical.com</a
+                  >
+                </div>
+              </div>
+              <div class="contact__row">
+                <svg
+                  class="contact__icon"
+                  width="18"
+                  height="18"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  aria-hidden="true"
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="10"
+                    stroke="currentColor"
+                    stroke-width="2"
+                  />
+                  <polyline
+                    points="12,6 12,12 16,14"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                </svg>
+                <div>
+                  <h3 class="contact__label">Hours</h3>
+                  <dl class="contact__hours">
+                    <div class="contact__hours-row">
+                      <dt>Mon — Fri</dt>
+                      <dd>9:00 — 19:00</dd>
+                    </div>
+                    <div class="contact__hours-row">
+                      <dt>Saturday</dt>
+                      <dd>10:00 — 15:00</dd>
+                    </div>
+                    <div class="contact__hours-row">
+                      <dt>Sunday</dt>
+                      <dd>Closed</dd>
+                    </div>
+                  </dl>
+                </div>
+              </div>
+            </div>
+            <div
+              class="contact__map"
+              aria-label="Map showing JukaMedical location"
+            >
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2434.5!2d16.8671998!3d52.395579!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4704fb43a744e9b9%3A0x57835494346910a!2sJuka%20Medical!5e0!3m2!1sen!2spl!4v1700000000000"
+                width="100%"
+                height="100%"
+                style="border: 0"
+                allowfullscreen=""
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"
+                title="JukaMedical location on Google Maps"
+              ></iframe>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- ==================== FOOTER ==================== -->
+    <footer class="footer">
+      <div class="footer__inner">
+        <div class="footer__brand">
+          <a
+            href="#hero"
+            class="footer__logo"
+            data-scroll-link
+            aria-label="JukaMedical — Back to top"
+          >
+            <span class="header__logo-mark">Juka</span
+            ><span class="header__logo-text">Medical</span>
+          </a>
+          <p class="footer__tagline">
+            Professional podology and foot care clinic in Warsaw. Clinical
+            excellence, luxurious comfort.
+          </p>
+        </div>
+        <nav class="footer__nav" aria-label="Footer navigation">
+          <h3 class="footer__heading">Quick Links</h3>
+          <ul class="footer__nav-list">
+            <li>
+              <a href="#about" class="footer__link" data-scroll-link
+                >About Us</a
+              >
+            </li>
+            <li>
+              <a href="#services" class="footer__link" data-scroll-link
+                >Services</a
+              >
+            </li>
+            <li>
+              <a href="#trainings" class="footer__link" data-scroll-link
+                >Trainings</a
+              >
+            </li>
+            <li>
+              <a href="#contact" class="footer__link" data-scroll-link
+                >Contact</a
+              >
+            </li>
+          </ul>
+        </nav>
+        <div class="footer__social">
+          <h3 class="footer__heading">Follow Us</h3>
+          <div class="footer__social-links">
+            <a
+              href="https://instagram.com/jukamedical"
+              class="footer__social-link"
+              aria-label="JukaMedical on Instagram"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <svg
+                width="20"
+                height="20"
+                viewBox="0 0 24 24"
+                fill="none"
+                aria-hidden="true"
+              >
+                <rect
+                  x="2"
+                  y="2"
+                  width="20"
+                  height="20"
+                  rx="5"
+                  stroke="currentColor"
+                  stroke-width="2"
+                />
+                <circle
+                  cx="12"
+                  cy="12"
+                  r="5"
+                  stroke="currentColor"
+                  stroke-width="2"
+                />
+                <circle cx="17.5" cy="6.5" r="1.5" fill="currentColor" />
+              </svg>
+            </a>
+            <a
+              href="https://facebook.com/jukamedical"
+              class="footer__social-link"
+              aria-label="JukaMedical on Facebook"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <svg
+                width="20"
+                height="20"
+                viewBox="0 0 24 24"
+                fill="none"
+                aria-hidden="true"
+              >
+                <path
+                  d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3V2z"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+              </svg>
+            </a>
+            <a
+              href="https://linkedin.com/company/jukamedical"
+              class="footer__social-link"
+              aria-label="JukaMedical on LinkedIn"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <svg
+                width="20"
+                height="20"
+                viewBox="0 0 24 24"
+                fill="none"
+                aria-hidden="true"
+              >
+                <path
+                  d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-4 0v7h-4v-7a6 6 0 016-6z"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+                <rect
+                  x="2"
+                  y="9"
+                  width="4"
+                  height="12"
+                  stroke="currentColor"
+                  stroke-width="2"
+                />
+                <circle
+                  cx="4"
+                  cy="4"
+                  r="2"
+                  stroke="currentColor"
+                  stroke-width="2"
+                />
+              </svg>
+            </a>
+          </div>
+        </div>
+        <div class="footer__bottom">
+          <p class="footer__copyright">
+            &copy; 2026 JukaMedical. All rights reserved.
+          </p>
+        </div>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>

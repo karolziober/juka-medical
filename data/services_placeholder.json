@@ -1,0 +1,301 @@
+[
+  {
+    "id": 1,
+    "category": "Medical Podology",
+    "description": "Evidence-based treatments for foot health conditions, performed by certified podologists using sterile medical-grade instruments.",
+    "items": [
+      {
+        "id": 101,
+        "name": "Comprehensive Foot Assessment",
+        "description": "Full diagnostic evaluation including skin and nail condition analysis, biomechanical assessment, and personalized treatment plan.",
+        "duration": "60 min",
+        "price": 120,
+        "currency": "EUR",
+        "isPopular": true
+      },
+      {
+        "id": 102,
+        "name": "Ingrown Nail Treatment",
+        "description": "Professional correction of ingrown toenails using tamponade or brace technique, with follow-up care instructions.",
+        "duration": "45 min",
+        "price": 95,
+        "currency": "EUR",
+        "isPopular": true
+      },
+      {
+        "id": 103,
+        "name": "Diabetic Foot Care",
+        "description": "Specialized treatment protocol for diabetic patients, including gentle nail care, callus management, and vascular assessment.",
+        "duration": "50 min",
+        "price": 110,
+        "currency": "EUR",
+        "isPopular": false
+      },
+      {
+        "id": 104,
+        "name": "Callus & Corn Removal",
+        "description": "Safe removal of hardened skin and corns using professional podiatric instruments, with prevention guidance.",
+        "duration": "30 min",
+        "price": 65,
+        "currency": "EUR",
+        "isPopular": false
+      },
+      {
+        "id": 105,
+        "name": "Fungal Nail Treatment",
+        "description": "Targeted antifungal therapy including nail debridement, topical treatment application, and home care protocol.",
+        "duration": "40 min",
+        "price": 85,
+        "currency": "EUR",
+        "isPopular": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Aesthetic Treatments",
+    "description": "Luxurious foot care treatments that combine medical precision with beauty and relaxation for naturally beautiful feet.",
+    "items": [
+      {
+        "id": 201,
+        "name": "Medical Pedicure",
+        "description": "Premium podological pedicure with nail shaping, cuticle care, callus treatment, and moisturizing foot mask.",
+        "duration": "60 min",
+        "price": 90,
+        "currency": "EUR",
+        "isPopular": true
+      },
+      {
+        "id": 202,
+        "name": "Nail Reconstruction",
+        "description": "Prosthetic nail application for damaged or missing nails using medical-grade gel, achieving a natural, beautiful appearance.",
+        "duration": "45 min",
+        "price": 75,
+        "currency": "EUR",
+        "isPopular": false
+      },
+      {
+        "id": 203,
+        "name": "Luxury Foot Spa",
+        "description": "Indulgent foot treatment with aromatic soak, exfoliation, paraffin wrap, and relaxing massage for ultimate rejuvenation.",
+        "duration": "75 min",
+        "price": 130,
+        "currency": "EUR",
+        "isPopular": true
+      },
+      {
+        "id": 204,
+        "name": "Cracked Heel Repair",
+        "description": "Intensive treatment for dry, cracked heels including mechanical debridement, deep hydration, and protective sealing.",
+        "duration": "40 min",
+        "price": 70,
+        "currency": "EUR",
+        "isPopular": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Orthotics & Biomechanics",
+    "description": "Custom orthotic solutions and gait analysis to address structural imbalances and improve overall foot function.",
+    "items": [
+      {
+        "id": 301,
+        "name": "Gait Analysis",
+        "description": "Comprehensive walking pattern assessment using pressure mapping technology to identify biomechanical issues.",
+        "duration": "45 min",
+        "price": 140,
+        "currency": "EUR",
+        "isPopular": false
+      },
+      {
+        "id": 302,
+        "name": "Custom Orthotic Insoles",
+        "description": "Individually crafted orthotic insoles based on 3D foot scanning, designed to correct alignment and relieve pressure points.",
+        "duration": "60 min",
+        "price": 220,
+        "currency": "EUR",
+        "isPopular": false
+      },
+      {
+        "id": 303,
+        "name": "Orthonyxie (Nail Bracing)",
+        "description": "Application of corrective nail braces to reshape curved or involuted nails without surgery.",
+        "duration": "35 min",
+        "price": 80,
+        "currency": "EUR",
+        "isPopular": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Orthotics & Biomechanics",
+    "description": "Custom orthotic solutions and gait analysis to address structural imbalances and improve overall foot function.",
+    "items": [
+      {
+        "id": 301,
+        "name": "Gait Analysis",
+        "description": "Comprehensive walking pattern assessment using pressure mapping technology to identify biomechanical issues.",
+        "duration": "45 min",
+        "price": 140,
+        "currency": "EUR",
+        "isPopular": false
+      },
+      {
+        "id": 302,
+        "name": "Custom Orthotic Insoles",
+        "description": "Individually crafted orthotic insoles based on 3D foot scanning, designed to correct alignment and relieve pressure points.",
+        "duration": "60 min",
+        "price": 220,
+        "currency": "EUR",
+        "isPopular": false
+      },
+      {
+        "id": 303,
+        "name": "Orthonyxie (Nail Bracing)",
+        "description": "Application of corrective nail braces to reshape curved or involuted nails without surgery.",
+        "duration": "35 min",
+        "price": 80,
+        "currency": "EUR",
+        "isPopular": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Orthotics & Biomechanics",
+    "description": "Custom orthotic solutions and gait analysis to address structural imbalances and improve overall foot function.",
+    "items": [
+      {
+        "id": 301,
+        "name": "Gait Analysis",
+        "description": "Comprehensive walking pattern assessment using pressure mapping technology to identify biomechanical issues.",
+        "duration": "45 min",
+        "price": 140,
+        "currency": "EUR",
+        "isPopular": false
+      },
+      {
+        "id": 302,
+        "name": "Custom Orthotic Insoles",
+        "description": "Individually crafted orthotic insoles based on 3D foot scanning, designed to correct alignment and relieve pressure points.",
+        "duration": "60 min",
+        "price": 220,
+        "currency": "EUR",
+        "isPopular": false
+      },
+      {
+        "id": 303,
+        "name": "Orthonyxie (Nail Bracing)",
+        "description": "Application of corrective nail braces to reshape curved or involuted nails without surgery.",
+        "duration": "35 min",
+        "price": 80,
+        "currency": "EUR",
+        "isPopular": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Orthotics & Biomechanics",
+    "description": "Custom orthotic solutions and gait analysis to address structural imbalances and improve overall foot function.",
+    "items": [
+      {
+        "id": 301,
+        "name": "Gait Analysis",
+        "description": "Comprehensive walking pattern assessment using pressure mapping technology to identify biomechanical issues.",
+        "duration": "45 min",
+        "price": 140,
+        "currency": "EUR",
+        "isPopular": false
+      },
+      {
+        "id": 302,
+        "name": "Custom Orthotic Insoles",
+        "description": "Individually crafted orthotic insoles based on 3D foot scanning, designed to correct alignment and relieve pressure points.",
+        "duration": "60 min",
+        "price": 220,
+        "currency": "EUR",
+        "isPopular": false
+      },
+      {
+        "id": 303,
+        "name": "Orthonyxie (Nail Bracing)",
+        "description": "Application of corrective nail braces to reshape curved or involuted nails without surgery.",
+        "duration": "35 min",
+        "price": 80,
+        "currency": "EUR",
+        "isPopular": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Orthotics & Biomechanics",
+    "description": "Custom orthotic solutions and gait analysis to address structural imbalances and improve overall foot function.",
+    "items": [
+      {
+        "id": 301,
+        "name": "Gait Analysis",
+        "description": "Comprehensive walking pattern assessment using pressure mapping technology to identify biomechanical issues.",
+        "duration": "45 min",
+        "price": 140,
+        "currency": "EUR",
+        "isPopular": false
+      },
+      {
+        "id": 302,
+        "name": "Custom Orthotic Insoles",
+        "description": "Individually crafted orthotic insoles based on 3D foot scanning, designed to correct alignment and relieve pressure points.",
+        "duration": "60 min",
+        "price": 220,
+        "currency": "EUR",
+        "isPopular": false
+      },
+      {
+        "id": 303,
+        "name": "Orthonyxie (Nail Bracing)",
+        "description": "Application of corrective nail braces to reshape curved or involuted nails without surgery.",
+        "duration": "35 min",
+        "price": 80,
+        "currency": "EUR",
+        "isPopular": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Orthotics & Biomechanics",
+    "description": "Custom orthotic solutions and gait analysis to address structural imbalances and improve overall foot function.",
+    "items": [
+      {
+        "id": 301,
+        "name": "Gait Analysis",
+        "description": "Comprehensive walking pattern assessment using pressure mapping technology to identify biomechanical issues.",
+        "duration": "45 min",
+        "price": 140,
+        "currency": "EUR",
+        "isPopular": false
+      },
+      {
+        "id": 302,
+        "name": "Custom Orthotic Insoles",
+        "description": "Individually crafted orthotic insoles based on 3D foot scanning, designed to correct alignment and relieve pressure points.",
+        "duration": "60 min",
+        "price": 220,
+        "currency": "EUR",
+        "isPopular": false
+      },
+      {
+        "id": 303,
+        "name": "Orthonyxie (Nail Bracing)",
+        "description": "Application of corrective nail braces to reshape curved or involuted nails without surgery.",
+        "duration": "35 min",
+        "price": 80,
+        "currency": "EUR",
+        "isPopular": false
+      }
+    ]
+  }
+]

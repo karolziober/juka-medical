@@ -1,0 +1,1005 @@
+[
+  {
+    "id": 1,
+    "category": "Podologia",
+    "description": "test",
+    "items": [
+      {
+        "id": 101,
+        "name": "Pedicure podstawowy",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "210",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 102,
+        "name": "Pedicure leczniczy",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "230/300",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 103,
+        "name": "Malowanie paznokci (lakier)",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "+10",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 104,
+        "name": "Malowanie paznokci (hybryda)",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "+40",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 105,
+        "name": "Spa - peeling, masaż stóp, maska",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "90",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 106,
+        "name": "Usunięcia, modzele nagniotki",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "80-100",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 107,
+        "name": "Usunięcie odcisku",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "100/150",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 108,
+        "name": "Rekonstrukcja płytki paznokciowej",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "100/180",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 109,
+        "name": "Wizyta związana z wrastającym paznokciem",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "100-150",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 110,
+        "name": "Kontrola wrastającego paznokcia",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "70-150",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 111,
+        "name": "Klamra metalowa VHO",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "220",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 112,
+        "name": "Klamra tytanowa",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "200",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 113,
+        "name": "Klamra Frasera",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "180",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 114,
+        "name": "Mikronakłuwanie łożyska",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "100",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 115,
+        "name": "Leczenie kurzajki / brodawki (preparat)",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "70/200",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 116,
+        "name": "Leczenie kurzajki / brodawki (elektrokoagulator)",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "< 50",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 117,
+        "name": "Taping",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "20",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 118,
+        "name": "Rurka korekcyjna",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "20",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 119,
+        "name": "Orteza indywidualna",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "80-150",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 120,
+        "name": "Pobieranie materiału mykologicznego",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "150",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 121,
+        "name": "Refleksologia stóp",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "170",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 122,
+        "name": "Peeling do stóp",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "20",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 123,
+        "name": "Maska na stopy",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "40",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 124,
+        "name": "Konsultacja on-line",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "150",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 125,
+        "name": "Wkładki medyczne",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "100-320",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 126,
+        "name": "Buty Paps Premium",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "200/450",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Pielęgnacja dłoni",
+    "description": "n/a",
+    "items": [
+      {
+        "id": 201,
+        "name": "Manicure klasyczny",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "100",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 202,
+        "name": "Malowanie paznokci (lakier)",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "20",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 203,
+        "name": "Manicure japoński",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "120",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 204,
+        "name": "Manicure hybrydowy",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "160",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 205,
+        "name": "Żel / akrylożel (długość krótka)",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "200",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 206,
+        "name": "Żel / akrylożel (długość długa)",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "240",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 207,
+        "name": "French / babyboomer / zdobienia",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "+20",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 208,
+        "name": "Ściągnięcie hybrydy",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "+30",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 209,
+        "name": "Przedłużenie (krótkie paznokcie)",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "220",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 210,
+        "name": "Przedłużenie (długie paznokcie)",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "240",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 211,
+        "name": "SPA dłoni (peeling, maska, ciepłe rękawice)",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "70",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 212,
+        "name": "IBX system",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "50",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 213,
+        "name": "IBX system + manicure",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "140",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Pielęgnacja twarzy",
+    "description": "n/a",
+    "items": [
+      {
+        "id": 301,
+        "name": "SPA peel Classic",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "200",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 302,
+        "name": "Ferulac Dubai Lips",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "120",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 303,
+        "name": "Valencia",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "280",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 304,
+        "name": "Azelac Peel",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "220",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 305,
+        "name": "Mandelac Peel",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "210",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 306,
+        "name": "Nomelan Cafeico",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "300",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 307,
+        "name": "DNA Recovery Peel",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "250",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 308,
+        "name": "Yellow Peel",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "300",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 309,
+        "name": "TRX",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "290",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 310,
+        "name": "C-peel + maska proszek",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "150",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 311,
+        "name": "Ferulac Classic",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "200",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 312,
+        "name": "Ferulac Classic + Plus",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "300",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 313,
+        "name": "Mandelac żel",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "100",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 314,
+        "name": "Azelac żel",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "100",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 315,
+        "name": "Oczyszczanie twarzy manualne z maską kremową",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "200",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 316,
+        "name": "Oczyszczanie twarzy manualne z maską algową",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "200",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 317,
+        "name": "Oczyszczanie twarzy manualne z kwasem Azelac / Mandelac",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "300",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 318,
+        "name": "Oczyszczanie pleców",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "300",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 319,
+        "name": "Mikrodermabrazja diamentowa",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "200",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 320,
+        "name": "Mikrodermabrazja diamentowa z maską kremową",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "220",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 321,
+        "name": "Mikrodermabrazja diamentowa z maską algową",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "250",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 322,
+        "name": "Mikrodermabrazja diamentowa z kwasem Azelac / Mandelac",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "300",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 323,
+        "name": "Mikrodermabrazja pleców",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "300",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 324,
+        "name": "Peeling kawitacyjny",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "100",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 325,
+        "name": "Peeling kawitacyjny z ampułką",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "150",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 326,
+        "name": "Peeling kawitacyjny z maską kremową",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "180",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 327,
+        "name": "Masaż KOBIDO",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "230",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 328,
+        "name": "Masaż GuaSha",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "100",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 329,
+        "name": "Mezoterapia mikroigłowa – twarz",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "250",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 330,
+        "name": "Mezoterapia mikroigłowa – szyja",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "150",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 331,
+        "name": "Mezoterapia mikroigłowa – twarz, szyja, dekolt",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "350",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 332,
+        "name": "Mezoterapia mikroigłowa – przebarwienia",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "160-250",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 333,
+        "name": "NanoPen mezoterapia mikroigłowa",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "400",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 334,
+        "name": "NanoPen + kwas",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "550",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 335,
+        "name": "Maska łagodząca w płacie Sesderma",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "150",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 336,
+        "name": "Aquatherm (zabieg nawilżający)",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "360",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 337,
+        "name": "Power-C (zabieg z czystą wit. C 15%)",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "360",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 338,
+        "name": "Corrective (zabieg wypełniający zmarszczki)",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "400",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 339,
+        "name": "Power Hialuronic (zabieg na okolice oczu)",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "200",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 340,
+        "name": "Global Lift",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "380",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 341,
+        "name": "Elektrokoagulacja – włókniak",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "100-400",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 342,
+        "name": "Elektrokoagulacja – przebarwienie / plamy starcze",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "150-300",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 343,
+        "name": "Elektrokoagulacja – naczynko",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "100-300",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 344,
+        "name": "Elektrokoagulacja – pajączki",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "200-400",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Rzęsy / Brwi",
+    "description": "n/a",
+    "items": [
+      {
+        "id": 401,
+        "name": "Laminacja rzęs",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "180",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 402,
+        "name": "Laminacja brwi",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "150",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 403,
+        "name": "Komplet brwi + rzęsy",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "300",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 404,
+        "name": "Henna rzęs",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "30",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 405,
+        "name": "Henna brwi",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "30",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 406,
+        "name": "Regulacja brwi",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "30",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 407,
+        "name": "Regulacja brwi woskiem",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "35",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 408,
+        "name": "Farbka do brwi + geometria",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "100",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Depilacja woskiem",
+    "description": "n/a",
+    "items": [
+      {
+        "id": 501,
+        "name": "Wąsik / broda",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "30",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 502,
+        "name": "Twarz",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "80",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 503,
+        "name": "Pachy",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "60",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 504,
+        "name": "Klatka piersiowa / plecy",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "100",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 505,
+        "name": "Łydki / uda",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "70",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 506,
+        "name": "Całe nogi",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "120",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 507,
+        "name": "Ręce",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "50",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 508,
+        "name": "Bikini",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "80",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 509,
+        "name": "Bikini pełne",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "100",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Masaż",
+    "description": "n/a",
+    "items": [
+      {
+        "id": 601,
+        "name": "Masaż relaksacyjny",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "180",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 602,
+        "name": "Masaż klasyczny / leczniczy",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "190",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 603,
+        "name": "Masaż leczniczy wybrany odcinek (np. kręgosłup)",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "100",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 604,
+        "name": "Masaż Abhyanga (całe ciało)",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "180",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Dodatkowe opłaty",
+    "description": "n/a",
+    "items": [
+      {
+        "id": 701,
+        "name": "Dojazd do klienta",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "50",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      },
+      {
+        "id": 702,
+        "name": "Usługa Premium",
+        "description": "n/a",
+        "duration": "n/a",
+        "price": "100",
+        "currency": "PLN",
+        "isPopular": "n/a"
+      }
+    ]
+  }
+]

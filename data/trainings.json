@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "title": "Foundations of Medical Podology",
+    "description": "A comprehensive introductory course covering the fundamentals of podological practice, including anatomy, hygiene protocols, basic nail and skin pathologies, and hands-on instrument technique. Perfect for those beginning their podology career.",
+    "duration": "3 days / 24 hours",
+    "level": "Beginner",
+    "price": 850,
+    "currency": "EUR",
+    "includes": [
+      "Certificate of Completion",
+      "Course Materials",
+      "Practice Kit",
+      "Hands-on Sessions",
+      "Lunch & Refreshments"
+    ],
+    "nextDate": "2026-04-15",
+    "spotsAvailable": 8,
+    "image": "images/trainings/foundations.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Advanced Ingrown Nail Techniques",
+    "description": "Master the latest techniques in ingrown nail correction, including tamponade methods, BS bracing systems, and orthonyxie applications. This intensive workshop combines theoretical knowledge with extensive hands-on practice on models.",
+    "duration": "2 days / 16 hours",
+    "level": "Intermediate",
+    "price": 680,
+    "currency": "EUR",
+    "includes": [
+      "Certificate of Completion",
+      "Specialist Tool Kit",
+      "Practice Sessions on Models",
+      "Post-course Consultation"
+    ],
+    "nextDate": "2026-05-10",
+    "spotsAvailable": 6,
+    "image": "images/trainings/ingrown-nail.jpg"
+  }
+]

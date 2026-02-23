@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "name": "Juka Kowalska",
+    "role": "Founder & Lead Podologist",
+    "bio": "With over 15 years of experience in medical podology, Juka founded JukaMedical with a vision to combine clinical excellence with a luxurious patient experience. She holds certifications from the European Academy of Podology and specializes in diabetic foot care and biomechanical assessments.",
+    "photo": "images/team/juka-kowalska.jpg",
+    "specialties": [
+      "Diabetic Foot Care",
+      "Biomechanical Assessment",
+      "Orthotics"
+    ],
+    "experience": "15+ years",
+    "socials": {
+      "instagram": "https://instagram.com/jukamedical",
+      "linkedin": "https://linkedin.com/in/jukakowalska"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Marta Nowak",
+    "role": "Senior Podologist",
+    "bio": "Marta brings a meticulous approach to every treatment, specializing in ingrown nail correction and advanced wound care. Her gentle technique and extensive training make her a favorite among patients seeking both medical and aesthetic foot treatments.",
+    "photo": "images/team/marta-nowak.jpg",
+    "specialties": [
+      "Ingrown Nail Correction",
+      "Wound Care",
+      "Nail Reconstruction"
+    ],
+    "experience": "8 years",
+    "socials": {
+      "instagram": "https://instagram.com/marta.podo"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Anna Wiśniewska",
+    "role": "Aesthetic Podologist",
+    "bio": "Anna combines her passion for beauty with podological expertise, offering aesthetic foot treatments that leave patients feeling confident and cared for. She is certified in medical pedicure techniques and specializes in nail prosthetics and cosmetic foot care.",
+    "photo": "images/team/anna-wisniewska.jpg",
+    "specialties": [
+      "Medical Pedicure",
+      "Nail Prosthetics",
+      "Cosmetic Foot Care"
+    ],
+    "experience": "6 years",
+    "socials": {
+      "instagram": "https://instagram.com/anna.footcare",
+      "linkedin": "https://linkedin.com/in/annawisniewska"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Katarzyna Zielińska",
+    "role": "Podology Trainee & Assistant",
+    "bio": "Katarzyna is our rising talent, currently completing her advanced podology certification under Juka's mentorship. Her fresh perspective and dedication to continuous learning bring new energy to our team while ensuring every patient receives attentive, personalized care.",
+    "photo": "images/team/katarzyna-zielinska.jpg",
+    "specialties": ["Patient Care", "Hygiene Protocols", "Basic Podology"],
+    "experience": "2 years",
+    "socials": {
+      "instagram": "https://instagram.com/kasia.podo"
+    }
+  }
+]
